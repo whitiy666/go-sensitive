@@ -1,7 +1,7 @@
 package sensitive
 
 import (
-	"github.com/sgoware/go-sensitive/store"
+	"github.com/whitiy666/go-sensitive/store"
 )
 
 const (

@@ -1,8 +1,8 @@
 package sensitive
 
 import (
-	"github.com/sgoware/go-sensitive/filter"
-	"github.com/sgoware/go-sensitive/store"
+	"github.com/whitiy666/go-sensitive/filter"
+	"github.com/whitiy666/go-sensitive/store"
 )
 
 type Manager struct {

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/sgoware/go-sensitive/store"
+	"github.com/whitiy666/go-sensitive/store"
 )
 
 func Test_NewFilter(t *testing.T) {
